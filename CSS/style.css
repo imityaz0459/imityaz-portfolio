@@ -1,0 +1,158 @@
+:root{
+
+--primary:#2563EB;
+--secondary:#7C3AED;
+--accent:#06B6D4;
+
+--background:#0F172A;
+--surface:#1E293B;
+
+--text:#F8FAFC;
+--text-light:#94A3B8;
+
+--border:#334155;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+body{
+    font-family: 'Inter',sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color:var(--background) ;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 0 2rem;
+}
+
+
+.logo{
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.nav-menu{
+    display: flex;
+    gap: 2.5rem;
+}
+
+.menu-anchors{
+    text-decoration: none;
+    color: var(--text);
+}
+
+.menu-anchors:hover{
+    color:var(--primary);
+    cursor: pointer;
+}
+
+.resume{
+    text-decoration: none;
+    color: var(--text);
+}
+
+.hero-section{
+   display: flex;
+   flex-direction:row;
+   padding: 1rem;
+   margin: 1rem;
+   width: 100%;
+   padding-top:80px;
+
+
+}
+
+.left-content{
+    display: flex;
+    flex-direction: column;
+    
+    max-width: 600px;
+}
+
+.left-content h1{
+    font-size: 3rem;
+    line-height:1.3;
+    color: var(--text-light);
+    margin-bottom:0.5rem;
+    
+}
+
+.left-content h2{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--accent);
+    margin-bottom: 1rem;
+}
+
+.left-content p{
+    font-size: 1.05rem;
+    color: var(--text-light);
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    max-width: 550px;
+}
+
+.highlight{
+    color: var(--primary);
+}
+
+.butons{
+    display: flex;
+    gap: 1rem;
+}
+.project-button{
+    background-color: var(--background);
+    text-decoration: none;
+    color: var(--text);
+    border-radius: 12px;
+    padding: 0.8rem 1.6rem;
+    font-weight:500;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease;
+    
+}
+
+.project-button:hover{
+    background-color: var(--secondary);
+    transform: translateY(-3px);
+    box-shadow:0 8px 20px rgba(37, 99, 235, 0.35); 
+     cursor: pointer;
+    
+}
+
+.contact-button{
+    background-color:var(--accent);
+    text-decoration: none;
+    color:var(--text);
+    font-weight: 500;
+    padding: 0.8rem 1.6rem;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    border:  1px solid var(--text) ;
+
+}
+
+
+.contact-button:hover{
+    background-color: var(--text-light);
+    color: var(--background);
+    transform: translateY(-3px);
+     cursor: pointer;
+}
