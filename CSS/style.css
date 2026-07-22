@@ -20,6 +20,7 @@ h1, h2, h3 {
 
 body{
     font-family: 'Inter',sans-serif;
+    background:#0F172A;
 }
 
 *{
@@ -59,13 +60,25 @@ body{
 }
 
 .menu-anchors:hover{
-    color:var(--primary);
+    color: var(--text-light);
     cursor: pointer;
 }
 
 .resume{
     text-decoration: none;
     color: var(--text);
+    border: 2px solid var(--primary);
+    font-weight: 400;
+    padding: 0.6rem 1.2rem;
+    border-radius: 20px;
+    
+    transition: all 0.2s ease;
+}
+
+.resume:hover{
+    background-color: var(--primary);
+    color: var(--text);
+    cursor: pointer;
 }
 
 .hero-section{
@@ -113,7 +126,7 @@ body{
     color: var(--primary);
 }
 
-.butons{
+.buttons{
     display: flex;
     gap: 1rem;
 }
@@ -155,4 +168,84 @@ body{
     color: var(--background);
     transform: translateY(-3px);
      cursor: pointer;
+}
+
+.socials{
+    margin-top: 3rem;
+    display: flex;
+    /* justify-content:start; */
+    gap: 2rem;
+}
+
+.social-icons{
+    font-size: 50px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    border-radius:50%;
+
+    background:var(--surface);
+
+    color: var(--text);
+
+    border: 1px solid var(--border);
+
+    text-decoration: none;
+
+    transition: all 0.3s ease;
+    
+
+}
+
+.social-icons:hover{
+    background:var(--primary);
+
+    transform: translateY(-5px);
+}
+
+.right-content{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+
+.profile-card{
+    width: 320px;
+    height: 320px;
+
+    border-radius: 20px;
+    border: 1px solid var(--border);
+     background-color:var(--surface);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.glow-circle{
+    width: 180px;
+    height: 180px;
+
+    background:var(--primary);
+
+    border-radius: 50%;
+
+    position: absolute;
+
+    top:-40px;
+    right: -40px;
+
+    filter: blur(80px);
+    opacity: .4;
+    
+
+
 }
