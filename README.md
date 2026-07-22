@@ -8,3 +8,4 @@ its 3rd day of making the portfolio
 <br>
 i will make it all by my own
 <br>
+it will take time but it will be better.
