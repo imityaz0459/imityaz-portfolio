@@ -31,5 +31,5 @@ i'll comeback after exam ends.
 <br>
 i just uploaded a js product repo.
 <br>
-i missed todays work
+i missed todays work.
 
