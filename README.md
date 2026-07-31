@@ -38,7 +38,7 @@ so tommorow is my exam guys.
 <br>
 i dont know what will happen tommorow.
 <br>
-hey guys today i missed to work on github
+hey guys today i missed to work on github.
 <br>
 lets see.
 <br>
