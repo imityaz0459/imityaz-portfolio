@@ -40,7 +40,7 @@ i dont know what will happen tommorow.
 <br>
 hey guys today i missed to work on github.
 <br>
-my streak is breaked now
+my streak is breaked now.
 <br>
 lets see.
 <br>
