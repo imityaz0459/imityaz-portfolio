@@ -63,3 +63,4 @@ but one bad things he borrow money all frinds
 i like the way he borry  thins 
 i thinge he is king in borrwing 
 he is profetessional 
+whenever he is borrow i am his fisrt call 
