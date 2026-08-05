@@ -59,7 +59,7 @@ imteyaz is good
 also is bad for all friend 
 donot be rude bro
 good for who goon in 
-but one bad things he borrow money all frinds 
+
 
  
 
