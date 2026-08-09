@@ -62,7 +62,7 @@ i am doing all of this to just make my clander.
 <br>
 just writing random things.
 <br>
-so lets enjoy this
+so lets enjoy this.
 
 
 
