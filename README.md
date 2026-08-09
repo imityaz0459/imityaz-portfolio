@@ -64,7 +64,7 @@ just writing random things.
 <br>
 so lets enjoy this.
 <br>
-ok
+ok.
 
 
  
