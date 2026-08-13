@@ -11,8 +11,6 @@ i will make it all by my own
 it will take time but it will be better.
 <br>
 i am thinking to give it a new diffrent look. dont want to make it like another common portfolio.
-<br>
-now i have exam so i am just holding making this i will make it after exam.
 
 after exam this will be better than many porfolios.
 <br>
