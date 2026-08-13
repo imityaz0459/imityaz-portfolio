@@ -14,9 +14,7 @@ i am thinking to give it a new diffrent look. dont want to make it like another 
 
 after exam this will be better than many porfolios.
 <br>
- of making portfoliio.
-<br>
-because i have exam started
+ of mak
 <br>
 i will work again on this after the exam.
 <br>
