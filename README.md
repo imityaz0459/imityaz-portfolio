@@ -19,7 +19,6 @@ after exam this will be better than many porfolios.
 
 ppen
 <br>i'll comeback after exam ends.
-<br>
 i just uploaded a js product repo.
 <br>
 i missed todays work.
