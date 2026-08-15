@@ -15,7 +15,6 @@ i am thinking to give it a new diffrent look. dont want to make it like another 
 after exam this will be better than many porfolios.
 <br>
  of mak
-<br>
 <br>i'll comeback after exam ends.
 i just uploaded a js product repo.
 i was too busy.
