@@ -18,9 +18,6 @@ after exam this will be better than many porfolios.
 <br>
 <br>i'll comeback after exam ends.
 i just uploaded a js product repo.
-<br>
-i missed todays work.
-<br>
 i was too busy.
 <br>
 so tommorow is my exam guys.
