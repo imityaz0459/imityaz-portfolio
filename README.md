@@ -45,7 +45,6 @@ lets do it something.
 <br>
 i am doing all of this to just make my clander.
 <br>
-so lets enjoy this.
 
 
 
