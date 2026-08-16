@@ -25,7 +25,7 @@ i dont know what will happen tommorow.
 <br>
 so today is my exam so wish me luck guys.
 <br>
-hey guys today i missed to work on github.
+hey guys today i missed to work on github
 
 
 
