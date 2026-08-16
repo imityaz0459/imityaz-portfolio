@@ -23,7 +23,7 @@ so tommorow is my exam guys.
 <br>
 i dont know what will happen tommorow.
 <br>
-so today is my exam so wish me luck guys
+
 
 
 
