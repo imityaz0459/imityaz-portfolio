@@ -16,7 +16,7 @@ after exam this will be better than many porfolios.
 <br>
  of mak
 <br>i'll comeback after exam ends.
-i just uploaded a js product repo.
+i just uploaded a js product repo
 
 
 
