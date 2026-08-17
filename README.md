@@ -19,7 +19,7 @@ after exam this will be better than many porfolios.
 i just uploaded a js product repo.
 i was too busy.
 <br>
-so tommorow is my exam guys.
+so tommorow is my exam guys
 
 
 
